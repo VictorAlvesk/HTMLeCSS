@@ -1,2 +1,3 @@
 # HTMLeCSS
-projeto usando Git, GitHub,Css e HTML
+
+Projeto básico usando HTML e CSS com GitHUb.
